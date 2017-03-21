@@ -1245,6 +1245,12 @@ color
   margin-bottom: 126px;
   overflow: hidden;
 }
+.body-wrap {
+  max-width: 60em;
+  margin: auto;
+  margin-bottom: 126px;
+  overflow: hidden;
+}
 .article {
   margin: 30px;
   margin-bottom: 5px;
